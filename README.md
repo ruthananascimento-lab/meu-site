@@ -1,2 +1,2 @@
 # meu-site
-Nesse repositório, e proposto curiosidades sobre mim
+neste repositório ,propós caractericas e curiosidades sobre o mim 
